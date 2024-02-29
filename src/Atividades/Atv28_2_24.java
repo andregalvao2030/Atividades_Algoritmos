@@ -25,7 +25,7 @@ public class Atv28_2_24 {
         double avista = preco - (preco * 0.05);
 
         System.out.println(" O preço do produto é: " + preco + " e o valor de cada parcela, " +
-                " em 3x, terá 5%de acrescimo. Dessa forma, o valor de cada parcela será: " + add);
+                    " em 3x, terá 5%de acrescimo. Dessa forma, o valor de cada parcela será: " + add);
         System.out.println(" Em apenas 2x, o preço de tabela é " + parcela2);
         System.out.println(" E a vista temos 5% de desconto, ficando só: " + avista);
 
