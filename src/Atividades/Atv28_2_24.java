@@ -17,7 +17,7 @@ public class Atv28_2_24 {
         double diametro = 5;
         double area = (diametro/2)*(diametro/2)*(3.14);
 
-        System.out.println("A área da circunferência, cujo diametro é " + diametro + " corresponde a: " + area);
+        System.out.println("A área da circunferência, cujo diametro é " + diametro + " corresponde a: \n" + area);
 
         double preco = 10;
         double add = ((preco/20) +10)/3;
@@ -37,7 +37,7 @@ public class Atv28_2_24 {
         double op3 = a * b;
         double op4 = a / b;
 
-        System.out.println("Estando em posse dos valores " + a + " e " + b + " podemos atribuir as 4 operações matemáticas: ");
+        System.out.println("Estando em posse dos valores " + a + " e " + b + " podemos atribuir as 4 \noperações matemáticas: ");
         System.out.println("Adição: " + op1);
         System.out.println("Subtração: " + op2);
         System.out.println("Multiplicação: " + op3);
